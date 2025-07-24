@@ -1,4 +1,4 @@
-## Olá, sou Levi! 👋
+# Olá, sou Levi! 👋
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (4º período)  <br>
 💻 Tenho foco em desenvolvimento back-end com Java, mas também conheço o básico de HTML, CSS e JavaScript<br>
