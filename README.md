@@ -1,6 +1,6 @@
 # Olá, sou Levi! 👋
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (5º período)  <br>
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (6º período)  <br>
 💻 Tenho foco em desenvolvimento back-end com Java, mas também conheço o básico de HTML, CSS e JavaScript<br>
 🌱 Atualmente estou aprendendo Spring Boot Framework
 
